@@ -1,6 +1,6 @@
 ﻿/*
   This demo application accompanies Pluralsight course 'Microsoft Azure IoT Developer: Manage IoT Devices with Azure IoT Central', 
-  by Jurgen Kevelaers. See https://pluralsight.pxf.io/iot-central.
+  by Jurgen Kevelaers. See pluralsight.pxf.io/iot-devices-iot-central.
 
   MIT License
 
