@@ -4,7 +4,7 @@
 
 Hi!
 
-Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT Developer: Manage IoT Devices with Azure IoT Central](https://pluralsight.pxf.io/iot-central).
+Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT Developer: Manage IoT Devices with Azure IoT Central](https://pluralsight.pxf.io/iot-devices-iot-central).
 
 I hope you enjoyed the course. If you have any questions, please don't hesitate don't contact me!
 
