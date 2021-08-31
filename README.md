@@ -1,6 +1,6 @@
-# Microsoft Azure IoT Developer: Manage IoT Devices with Azure IoT Central
+https://user-images.githubusercontent.com/62745957/131512476-e50e8f70-2818-47b3-b149-30c8848f70dc.mp4
 
-![enter image description here](https://www.pluralsight.com/content/dam/pluralsight/newsroom/brand-assets/logos/pluralsight-logo-vrt-color-2.png)  
+# Microsoft Azure IoT Developer: Manage IoT Devices with Azure IoT Central
 
 Hi!
 
