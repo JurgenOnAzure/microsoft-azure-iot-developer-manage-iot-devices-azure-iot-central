@@ -10,4 +10,4 @@ I hope you enjoyed the course. If you have any questions, please don't hesitate 
 
 # iot-developer-iot-central-m2
 
-This .NET project shows you how to work with a device central device from code and includes device registration, device twins and direct methods.
+This .NET project shows you how to work with an IoT Central device from code and includes device registration, device twins and direct methods.
